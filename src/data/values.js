@@ -1,9 +1,9 @@
 // icon: ključ iz components/Values.jsx
 export const values = [
   // short = kratak naslov koji se prikazuje na telefonu (sve četiri stavke u jednom redu)
-  { icon: 'shield', title: 'Žig i sertifikat', short: 'Žig', text: 'Svaki komad nosi žig finoće. Ono što piše na etiketi — to i kupujete.' },
+  { icon: 'shield', title: 'Žig i sertifikat', short: 'Žig', text: 'Svaki komad nosi žig finoće, imenski žig vlasnika i državni žig koji garantuje finoću zlata i srebra na svakom komadu nakita.' },
   { icon: 'chat', title: 'Iskren savet', short: 'Savet', text: 'Kažemo vam šta vam zaista stoji, šta je isplativo, a šta nije vredno vašeg novca.' },
-  { icon: 'refresh', title: 'Garancija i servis', short: 'Garancija', text: 'Garancija na izradu i stalna briga o nakitu koji ste kod nas kupili.' },
+  { icon: 'refresh', title: 'Garancija i servis', short: 'Garancija', text: 'Garancija na finoću i stalna briga o nakitu koji ste kod nas kupili, kao i o nakitu iz drugih radnji.' },
   { icon: 'gift', title: 'Pažljivo pakovanje', short: 'Paket', text: 'Svaki nakit stiže u kutiji koja je lepa koliko i sam poklon.' },
 ]
 

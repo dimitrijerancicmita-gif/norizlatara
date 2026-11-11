@@ -12,7 +12,7 @@ export const services = [
   {
     no: '03',
     name: 'Popravke i lemljenje',
-    text: 'Pukao lančić, labava kopča, širenje ili sužavanje prstena — vraćamo nakitu prvobitni oblik.',
+    text: 'Pukao lančić, labava kopča, širenje, sužavanje i popravka filigranskog nakita, kao i bilo koji nakit koji posedujete, a nije ispravan — vraćamo nakit u prvobitni oblik.',
   },
   {
     no: '04',
@@ -22,11 +22,11 @@ export const services = [
   {
     no: '05',
     name: 'Čišćenje i poliranje',
-    text: 'Profesionalno osvežavanje sjaja, uključujući obnavljanje rodijuma na belom zlatu.',
+    text: 'Vraćamo prvobitni sjaj, uključujući obnavljanje rodijuma na belom zlatu.',
   },
   {
     no: '06',
-    name: 'Procena vrednosti',
-    text: 'Nasledili ste nakit ili ga želite osigurati? Procenjujemo materijal, izradu i stanje komada.',
+    name: 'Bušenje ušiju',
+    text: 'Bušenje ušiju uz savet pri izboru prvih minđuša.',
   },
 ]

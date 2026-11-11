@@ -39,7 +39,7 @@ export default function Services() {
                   <span className="svc__n">{s.no}</span>
                   <div>
                     <h3>{s.name}</h3>
-                    <p>{s.text}</p>
+                    {s.text && <p>{s.text}</p>}
                   </div>
                   <span className="svc__arrow"><Arrow /></span>
                 </Link>

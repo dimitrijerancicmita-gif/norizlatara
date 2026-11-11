@@ -12,7 +12,7 @@ export const steps = [
   {
     n: '03',
     title: 'Izrada',
-    text: 'Komad se izrađuje i pažljivo obrađuje. Kontrolišemo svaki detalj — od šarke i ležišta kamena do poliranja.',
+    text: 'Komad se izrađuje i pažljivo obrađuje. Kontrolišemo svaki detalj — do željenog rezultata.',
   },
   {
     n: '04',

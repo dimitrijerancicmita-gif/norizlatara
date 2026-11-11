@@ -9,7 +9,7 @@ export const faq = [
   },
   {
     q: 'Da li nakit dolazi sa žigom i garancijom?',
-    a: 'Svaki komad nosi žig finoće zlata ili srebra, a uz kupovinu dobijate račun i garanciju na izradu. Rado ćemo vam objasniti šta tačno garancija pokriva.',
+    a: 'Svaki komad nosi žig finoće zlata ili srebra, a uz kupovinu dobijate garanciju na izradu. Rado ćemo vam objasniti šta tačno garancija pokriva.',
   },
   {
     q: 'Kako da odaberem veličinu prstena?',

@@ -2,10 +2,10 @@
 const site = {
   name: 'Nori',
   tagline: 'Nakit koji se ne nosi jednu sezonu. Čisto, iskreno i napravljeno da traje.',
-  address: 'Ulica i broj, 11000 Beograd',
-  phone: '+381 11 000 0000',
-  phoneHref: 'tel:+381110000000',
-  email: 'kontakt@nori-zlatara.rs',
+  address: 'Karađorđeva 2',
+  phone: '+381 64 206 6069',
+  phoneHref: 'tel:+381642066069',
+  email: 'zlataranori@gmail.com',
   hours: [
     ['Pon – Pet', '09:00 – 20:00'],
     ['Subota', '09:00 – 15:00'],

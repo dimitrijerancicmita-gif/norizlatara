@@ -11,7 +11,7 @@ export default function CtaBand() {
         <div>
           <Reveal as="span" className="eyebrow">Kontakt</Reveal>
           <Reveal as="h2" className="h2" delay={0.1}>
-            Svratite na <em className="gold-text">kafu i razgovor.</em>
+            Dobrodošli u našu <em className="gold-text">kuću nakita</em>
           </Reveal>
         </div>
         <Reveal className="cta-band__btns" delay={0.2}>

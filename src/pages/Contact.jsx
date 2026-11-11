@@ -74,7 +74,7 @@ export default function Contact() {
     <>
       <PageHero
         eyebrow="Kontakt"
-        title={['Svratite na kafu', <em key="k" className="gold-text">i razgovor.</em>]}
+        title={['Dobrodošli u našu', <em key="k" className="gold-text">kuću nakita</em>]}
         lead="Pišite nam, pozovite ili dođite direktno u radnju. Rado ćemo vam pokazati sve što vas zanima."
       />
 
